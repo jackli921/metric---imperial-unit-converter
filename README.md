@@ -14,7 +14,7 @@ This is a training project built to consolidate key concepts from:
 - Render output to the DOM
 
 ## Demo
- ![](/images/demo.gif)
+ ![](demo.gif)
 
 
 
